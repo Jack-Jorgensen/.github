@@ -14,3 +14,15 @@
 </ul>
 
 View Our <b><a href="https://tenaya360.com/blog/">Blogs</a></b>
+
+<h2>Social Meida Pages</h2>
+<ul>
+  <li><a href="https://www.instagram.com/tenaya360/">Instagram</a></li>
+  <li><a href="https://x.com/tenaya360">X</a></li>
+  <li><a href="https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F100959733">Linkedin</a></li>
+  <li><a href="https://share.google/gOFEWYArQoQqKnHNO">Google</a></li>
+</ul>
+
+<h2>Address</h2>
+<p>1307 Mt Pisgah Rd #6, Walnut Creek, CA 94596, United States</p>
+<p>Contact Us : +1 925-222-5902</p>
