@@ -15,7 +15,7 @@
 
 View Our <b><a href="https://tenaya360.com/blog/">Blogs</a></b>
 
-<h2>Social Meida Pages</h2>
+<h2>Social Media Pages</h2>
 <ul>
   <li><a href="https://www.instagram.com/tenaya360/">Instagram</a></li>
   <li><a href="https://x.com/tenaya360">X</a></li>
